@@ -5,19 +5,19 @@ The analysis combines federal marketplace plan data with demographic insurance c
 Research Questions
 This project is guided by the following analytical questions:
 1. How does the health insurance marketplace in Tennessee compare to the national market?
-o Are the same insurers dominant?
-o Does Tennessee have fewer plan options?
+   a. Are the same insurers dominant?
+   b. Does Tennessee have fewer plan options?
 2. Do plans that include dental or vision coverage cost significantly more than plans without these benefits?
-o What is the average premium difference?
-o Does the difference vary by metal level (Bronze, Silver, Gold)?
+   a. What is the average premium difference?
+   b. Does the difference vary by metal level (Bronze, Silver, Gold)?
 3. How does the uninsured rate vary across income levels in the United States?
-o At what income level is the uninsured rate highest?
-o Are there clear affordability gaps?
+   a. At what income level is the uninsured rate highest?
+   b. Are there clear affordability gaps?
 4. Are there gender differences in uninsured rates?
-o Is one gender more likely to be uninsured?
-o How large is the difference?
+   a. Is one gender more likely to be uninsured?
+   b. How large is the difference?
 5. What patterns emerge when comparing plan cost, plan availability, and uninsured populations?
-o Which groups appear most affected by cost or access barriers?
+   a. Which groups appear most affected by cost or access barriers?
 
 Data Sources
 This project uses publicly available government datasets:
@@ -25,8 +25,8 @@ This project uses publicly available government datasets:
 Used to analyze available health insurance plans, premiums, and benefit details.
 * CMS Marketplace Public Use Files (PUFs)
 Used for plan attributes, rates, and geographic service areas.
-* American Community Survey (ACS) – Table S2701
+* American Community Survey (ACS) â€“ Table S2701
 Used to analyze uninsured rates by income level.
-* American Community Survey (ACS) – Table B27006
+* American Community Survey (ACS) â€“ Table B27006
 Used to analyze insurance coverage by gender.
 
