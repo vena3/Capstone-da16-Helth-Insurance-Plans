@@ -1,12 +1,32 @@
-# Capstone-da16-Helth-Insurance-Plans
-Capstone for da16 capstone project looks at health insurance plans, their costs, and insurance coverage gaps in the United States
+Project Overview
+This project analyzes health insurance plan availability, pricing differences, and uninsured population trends in the United States. The goal is to move beyond basic statistics and examine meaningful patterns that help explain differences in cost, coverage options, and insurance gaps.
+The analysis combines federal marketplace plan data with demographic insurance coverage data to explore how plan offerings and pricing relate to uninsured rates across income and gender groups.
 
-1. What health insurance plans are most offered in the United States through the federal marketplace?
-2. What health insurance plans are most offered in Tennessee?
-3. What is the average price difference between plans that include dental coverage and plans that do not?
-4. What is the average price difference between plans that include vision coverage and plans that do not?
-5. How does the uninsured rate in the United States change across different income levels?
-6. What is the gender breakdown of people who do not have health insurance?
-7. What additional insights can be found by combining health insurance plan data with demographic insurance data?
+Research Questions
+This project is guided by the following analytical questions:
+1. How does the health insurance marketplace in Tennessee compare to the national market?
+o Are the same insurers dominant?
+o Does Tennessee have fewer plan options?
+2. Do plans that include dental or vision coverage cost significantly more than plans without these benefits?
+o What is the average premium difference?
+o Does the difference vary by metal level (Bronze, Silver, Gold)?
+3. How does the uninsured rate vary across income levels in the United States?
+o At what income level is the uninsured rate highest?
+o Are there clear affordability gaps?
+4. Are there gender differences in uninsured rates?
+o Is one gender more likely to be uninsured?
+o How large is the difference?
+5. What patterns emerge when comparing plan cost, plan availability, and uninsured populations?
+o Which groups appear most affected by cost or access barriers?
 
+Data Sources
+This project uses publicly available government datasets:
+* HealthCare.gov Health Plan Data
+Used to analyze available health insurance plans, premiums, and benefit details.
+* CMS Marketplace Public Use Files (PUFs)
+Used for plan attributes, rates, and geographic service areas.
+* American Community Survey (ACS) – Table S2701
+Used to analyze uninsured rates by income level.
+* American Community Survey (ACS) – Table B27006
+Used to analyze insurance coverage by gender.
 
