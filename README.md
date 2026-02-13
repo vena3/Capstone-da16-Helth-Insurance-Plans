@@ -30,3 +30,12 @@ Used to analyze uninsured rates by income level.
 * American Community Survey (ACS) – Table B27006
 Used to analyze insurance coverage by gender.
 
+Tools & Technologies
+The following tools were used in this project:
+ Python
+* pandas (data cleaning and transformation)
+* matplotlib / seaborn (visualizations)
+ Power BI 
+* Interactive dashboard and data storytelling
+
+
