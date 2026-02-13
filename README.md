@@ -32,6 +32,7 @@ Used to analyze insurance coverage by gender.
 
 Tools & Technologies
 The following tools were used in this project:
+
  Python
 * pandas (data cleaning and transformation)
 * matplotlib / seaborn (visualizations)
